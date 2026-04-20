@@ -10,7 +10,7 @@
 --     → katastralni_uzemi.prares_kod = katastralni_urady.kod
 -- =============================================================================
 
-USE nemovitosti;
+USE nemovitosti; 
 SET SQL_SAFE_UPDATES = 0;
 
 

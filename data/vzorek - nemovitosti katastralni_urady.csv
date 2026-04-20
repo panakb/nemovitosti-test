@@ -1,0 +1,24 @@
+﻿kod;zkratka;typ_prac;nazev;nazev_zkraceny;nadriz_prac;platnost_od;platnost_do;ico;telefon;fax;email;obec;mestsky_obvod;cast_obce;cislo_domovni;nazev_ulice;cislo_orient;psc
+10;ČÚZK;7;Český úřad zeměměřický a katastrální;ČÚZK;;01.01.1993;;25712;284041111;;cuzk@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+20;ČÚZK-SCD;3;Český úřad zeměměřický a katastrální - SCD;ČÚZK-SCD;10;01.01.1993;;25712;284041111;;cuzk@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+30;ZÚ;5;Zeměměřický úřad;Zeměměřický úřad;10;01.01.1993;;60458500;284041111;284041416;zu.praha@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+100;KÚ-PRME;1;Katastrální úřad pro hlavní město Prahu;Hlavní město Praha;10;01.01.2004;;71185224;284041111;284042022;ku.proprahu@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+101;PRME;2;Katastrální úřad pro hlavní město Prahu, Katastrální pracoviště Praha;Praha;100;01.01.1993;;;284041111;284042022;kp.praha@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+200;KÚ-PRVY;1;Katastrální úřad pro Středočeský kraj;Středočeský kraj;10;01.01.1993;;213683;284041111;284043013;ku.prostredokraj@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+201;BENE;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Benešov;Benešov;200;01.01.1993;;;317716450;;kp.benesov@cuzk.gov.cz;Benešov;;Benešov;1902;Tyršova;;25616
+202;BERO;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Beroun;Beroun;200;01.01.1993;;;311625147;;kp.beroun@cuzk.gov.cz;Beroun;;Beroun-Město;198;Politických vězňů;16;26601
+203;KLAD;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Kladno;Kladno;200;01.01.1993;;;312610306, 312610307;;kp.kladno@cuzk.gov.cz;Kladno;;Kladno;3091;Ctiborova;;27201
+204;KOLI;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Kolín;Kolín;200;01.01.1993;;;321737011;;kp.kolin@cuzk.gov.cz;Kolín;;Kolín IV;8;Rorejcova;;28002
+205;KUTH;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Kutná Hora;Kutná Hora;200;01.01.1993;;;327513203;;kp.khora@cuzk.gov.cz;Kutná Hora;;Kutná Hora-Vnitřní Město;432;Rudní;4;28434
+206;MELN;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Mělník;Mělník;200;01.01.1993;;;315636311;;kp.melnik@cuzk.gov.cz;Mělník;;Mělník;3671;Mladoboleslavská;;27601
+207;MBOL;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Mladá Boleslav;Mladá Boleslav;200;01.01.1993;;;326722771;;kp.mboleslav@cuzk.gov.cz;Mladá Boleslav;;Mladá Boleslav II;55;Lukášova;;29301
+208;NYMB;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Nymburk;Nymburk;200;01.01.1993;;;325501001;;kp.nymburk@cuzk.gov.cz;Nymburk;;Nymburk;255;Palackého třída;54;28837
+209;PRVY;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Praha-východ;Praha-východ;200;01.01.1993;;;284041111;;kp.pvychod@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+210;PRZP;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Praha-západ;Praha-západ;200;01.01.1993;;;284041111;;kp.pzapad@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+211;PRIB;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Příbram;Příbram;200;01.01.1993;;;318401611;;kp.pribram@cuzk.gov.cz;Příbram;;Příbram IV;353;Pod Šachtami;;26101
+212;RAKO;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Rakovník;Rakovník;200;01.01.1993;;;313521611;;kp.rakovnik@cuzk.gov.cz;Rakovník;;Rakovník II;2123;Na Sekyře;;26901
+231;SLAN;2;Katastrální úřad pro Středočeský kraj, Katastrální pracoviště Slaný;Slaný;200;01.01.1993;;;312522312;;kp.slany@cuzk.gov.cz;Slaný;;Slaný;376;Netovická;;27401
+299;ZKI PR;4;Zeměměřický a katastrální inspektorát v Praze;ZKI v Praze;10;01.01.1993;;47609818;284041111;;zki.praha@cuzk.gov.cz;Praha;Praha 8;Kobylisy;1800;Pod sídlištěm;9;18200
+300;KÚ-CBUD;1;Katastrální úřad pro Jihočeský kraj;Jihočeský kraj;10;01.01.1993;;213691;386713111;;ku.projihockraj@cuzk.gov.cz;České Budějovice;;České Budějovice 7;124;Lidická tř.;11;37086
+301;CBUD;2;Katastrální úřad pro Jihočeský kraj, Katastrální pracoviště České Budějovice;České Budějovice;300;01.01.1993;;;386713111;;kp.cbudejovice@cuzk.gov.cz;České Budějovice;;České Budějovice 7;124;Lidická tř.;11;37086
+302;CKRU;2;Katastrální úřad pro Jihočeský kraj, Katastrální pracoviště Český Krumlov;Český Krumlov;300;01.01.1993;;;380301841;;kp.ckrumlov@cuzk.gov.cz;Český Krumlov;;Plešivec;285;Za Soudem;;38111
