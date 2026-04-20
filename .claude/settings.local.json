@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install *)",
+      "Bash(python -c ' *)",
+      "Bash(python -c \"import sys; [print\\(l.encode\\('cp1250','replace'\\).decode\\('cp1250'\\)\\) for l in sys.stdin]\")"
+    ]
+  }
+}
